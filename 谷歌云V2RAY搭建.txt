@@ -1,0 +1,23 @@
+获取ROOT权限sudo -i
+
+查看时间代码date -R
+
+修改时间代码rm -rf /etc/localtime
+ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+
+安装脚本bash <(curl -s -L https://233yes.com/v2ray.sh)
+
+超级一键加速脚本，bbr 原版/魔改/plus/锐速 四合一
+wget "https://github.com/chiakge/Linux-NetSpeed/raw/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+
+BBR主页./tcp.sh
+
+-----------------------------------------------
+香港VPS
+这里建议大家选择debian9.4
+
+apt-get update -y && apt-get install curl -y
+
+bash <(curl -s -L https://git.io/v2ray.sh)
+---------------------------------------------
+https://233blog.com/post/16/
