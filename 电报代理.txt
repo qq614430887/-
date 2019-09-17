@@ -1,0 +1,33 @@
+
+---------- V2Ray 配置信息 -------------
+
+ 地址 (Address) = 108.61.191.37
+
+ 端口 (Port) = 40088
+
+ 用户ID (User ID / UUID) = d0ed4a98-8cc1-4b31-9c00-da06131a0d3b
+
+ 额外ID (Alter Id) = 233
+
+ 传输协议 (Network) = tcp
+
+ 伪装类型 (header type) = none
+
+
+---------- V2Ray vmess URL / V2RayNG v0.4.1+ / V2RayN v2.1+ / 仅适合部分客户端 -------------
+
+vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV8xMDguNjEuMTkxLjM3IiwKImFkZCI6ICIxMDguNjEuMTkxLjM3IiwKInBvcnQiOiAiNDAwODgiLAoiaWQiOiAiZDBlZDRhOTgtOGNjMS00YjMxLTljMDAtZGEwNjEzMWEwZDNiIiwKImFpZCI6ICIyMzMiLAoibmV0IjogInRjcCIsCiJ0eXBlIjogIm5vbmUiLAoiaG9zdCI6ICIiLAoicGF0aCI6ICIiLAoidGxzIjogIiIKfQo=
+
+
+==============================================
+---------- Telegram MTProto 配置信息 -------------
+
+ 主机 (Hostname) = 108.61.191.37
+
+ 端口 (Port) = 35948
+
+ 密钥 (Secret) = ddaf54befbdbd1347dab81acd2277521
+
+ Telegram 代理配置链接 = https://t.me/proxy?server=108.61.191.37&port=35948&secret=ddaf54befbdbd1347dab81acd2277521
+
+root@vultr:~# 
